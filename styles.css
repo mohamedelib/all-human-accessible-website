@@ -7,12 +7,21 @@
 
 }
 
-li, a, button{
+body{
+    background-color: #D9D9D9;
+    line-height: 1.4;
+
+}
+
+li, a{
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    color: #edf0f1;
+    color: #000000;
     text-decoration: none;
+}
+button{
+    color:white;
 }
 
 header{
@@ -20,7 +29,7 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
-        background-color: #24252A;
+        background-color: #D9D9D9;
 }
 
 .navlogo{
@@ -90,6 +99,11 @@ h2{
     line-height: 1.4;
     margin-left: auto;
     margin-right: auto;
+    padding: 25px;
+  }
+
+  .artikel a {
+    color:#317072;
   }
 
   #artikelen {
