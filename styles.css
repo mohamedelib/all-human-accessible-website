@@ -145,6 +145,10 @@ h2{
 
   }
 
+  .welkom{
+    text-align: left;
+    
+  }
   #intro {
   padding: 2em ;
   line-height: 1.6;
@@ -162,6 +166,15 @@ h2{
 .intro-foto{
     width: 100%;
     height: 100%;
+}
+
+@media (min-width:768px) {
+    .intro-foto{
+        /* min-height: 5rem; */
+        /* min-width: 5rem; */
+        max-width:80rem;
+        max-height: 40rem;
+    }
 }
  #scholen img{
     display:block;
