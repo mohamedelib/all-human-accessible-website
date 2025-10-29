@@ -7,10 +7,8 @@
 
 }
 
-body {
-  display: flex;
-  flex-direction: column;
-}
+
+
 
 .visually-hidden {
   position: absolute;
