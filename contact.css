@@ -136,13 +136,26 @@ padding: 0 20px;
     color:#2B5E60
 }
 
-button{
+.cta {
+  display: inline-block;
+  background: #2B5E60;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 25px;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+}
+
+.cta:hover {
+  background: #1f4648; /* iets donkerder bij hover */
+}
+/* button{
     padding: 9px 25px;
     background-color: #317072;
     border:none;
     border-radius: 50px;
     cursor: pointer;
-    transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s; */
 }
 button:hover{
     background-color: rgba(0, 136, 169, 0.8);
