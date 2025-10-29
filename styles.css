@@ -56,6 +56,15 @@ header{
 .navlogo{
     cursor: pointer;
     margin-right: auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+   
+}
+.navlogo p{
+  font-size: 13px;
 }
 
 .navlogo:focus {
@@ -178,6 +187,20 @@ h2{
 }
 
 
+.deelscholen {
+  @media (min-width: 1189px){
+  display: flex;
+  flex-direction: row;
+  
+}
+}
+.deelscholen img {
+  @media (min-width: 1189px){
+    height: 250px ;
+    width: 450px;
+    padding-bottom: 15px;
+  }
+}
 .intro-foto{
     width: 100%;
     height: 100%;
@@ -195,7 +218,6 @@ h2{
     display:block;
     margin: auto;
     max-width: 100%;
-    padding: 10px;
 
     
 

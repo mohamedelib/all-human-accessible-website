@@ -18,10 +18,10 @@
 body{
     background-color: #D9D9D9;
     line-height: 1.4;
-    display: grid;
+    /* display: grid;
     grid-template-rows: auto 1fr auto;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; */
 }
 
 html, body {
@@ -49,9 +49,11 @@ main {
 .contact-tekst h1{
     font-size: 20px;
     padding-bottom: 5px;
+
 }
 .contact-tekst {
     padding-bottom: 5px;
+      font-family: "Montserrat", sans-serif;
 }
 
 .row {
@@ -98,8 +100,15 @@ header{
 .navlogo{
     cursor: pointer;
     margin-right: auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
+.navlogo p {
+    font-size: 13px;
+}
 .navlogo:focus {
   outline: 2px solid #2B5E60;
   outline-offset: 4px;
@@ -147,6 +156,7 @@ padding: 0 20px;
   font-family: "Montserrat", sans-serif;
 }
 
+}
 .cta:hover {
   background: #1f4648; /* iets donkerder bij hover */
 }
