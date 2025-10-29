@@ -96,7 +96,7 @@ button:hover{
 
 .banner{
     padding:6.5rem 0;
-    background-image: url("../fotos/banner.jpg");
+    background-image: url("./fotos/banner.jpg");
     background-origin: padding-box;
     background-repeat: no-repeat; 
     background-position: center;
