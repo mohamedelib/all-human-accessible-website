@@ -109,6 +109,7 @@ header{
 .navlogo p {
     font-size: 13px;
 }
+
 .navlogo:focus {
   outline: 2px solid #2B5E60;
   outline-offset: 4px;
