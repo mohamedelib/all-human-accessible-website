@@ -1,25 +1,9 @@
-# Accessible Website
+Website: [ADConnect](https://mohamedelib.github.io/all-human-accessible-website/contact.html)
+<img width="86" height="65" alt="logo-klein" src="https://github.com/user-attachments/assets/7868809e-f22a-4f15-8503-409e1454aae8" />
 
-Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk volgens WCAG richtlijnen.
 
-De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/INSTRUCTIONS.md)
+Voor deze opdracht heb ik gekeken naar de toegankelijkheid van een website. Ik wilde weten hoe gebruiksvriendelijk en inclusief de site is voor iedereen ook voor mensen die bijvoorbeeld met een schermlezer werken of liever met het toetsenbord navigeren. De site die ik heb getest, is een project van mij voor de organisatie Adconnect. Hiervoor heb ik zowel Lighthouse-tests als handmatige checks uitgevoerd.
 
-## Inhoudsopgave
+Mijn testbevindingen kun je vinden in mijn wiki:
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
-
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
-
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-
-## Bronnen
-
-## Licentie
-This project is licensed under the terms of the [MIT license](./LICENSE).
+Over het algemeen scoort de site goed. De belangrijkste functies zijn toegankelijk, de structuur is logisch en de meeste WCAG-regels worden gevolgd. Dit aangezien de site best simpel gebouwd is. 
