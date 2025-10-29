@@ -26,6 +26,7 @@ Desktopweergave Contact pagina
 
 Mobiele weergave Homepage
 <img width="399" height="708" alt="image" src="https://github.com/user-attachments/assets/af1bb698-afba-4dff-8f68-bfd0e2a6afe2" />
+
 Mobiele weergave contactpagina
 <img width="397" height="708" alt="image" src="https://github.com/user-attachments/assets/42df9d16-b05e-4a8c-8056-62592561ed5b" />
 
