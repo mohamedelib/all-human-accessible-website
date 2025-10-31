@@ -106,8 +106,12 @@ header{
     align-items: center;
 }
 
-.navlogo p {
-    font-size: 13px;
+.navlogo p{
+  font-size: 11px;
+  text-align: center;
+    @media (min-width: 375px) {
+      font-size: 13px;
+  }
 }
 
 .navlogo:focus {
