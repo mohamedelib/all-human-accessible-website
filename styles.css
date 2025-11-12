@@ -22,7 +22,7 @@ body{
 
 .cta {
   display: inline-block;
-  background: #2B5E60;
+  background: var(--accentkleur-lightmode);
   color: white;
   padding: 10px 25px;
   border-radius: 25px;
@@ -39,9 +39,6 @@ li, a{
     font-size: 16px;
     color: #000000;
     text-decoration: none;
-}
-button{
-    color:white;
 }
 
 header{
@@ -96,11 +93,12 @@ padding: 0 20px;
 
 button{
     padding: 9px 25px;
-    background-color: #317072;
+    background-color: var(--accentkleur-lightmode);
     border:none;
     border-radius: 50px;
     cursor: pointer;
     transition: all 0.3s ease 0s;
+    color: white;
 }
 button:hover{
     background-color: rgba(0, 136, 169, 0.8);
@@ -227,7 +225,7 @@ h2{
   }
 
   .footer {
-  background-color: #317072;
+  background-color: var(--accentkleur-lightmode);
   color: white;
   padding: 20px;
   list-style-type: none;
